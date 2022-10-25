@@ -22,7 +22,7 @@
   tasks:
     - name: Install NGINX
       ansible.builtin.include_role:
-        name: ansible-role-demo
+        name: ansible-nginx-demo
       vars:
         nginx_version: "{{ version }}"
         nginx_service_modify: true
