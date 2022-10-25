@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
-          python3 -m pip install --user molecule molecule-docker ansible-lint pytest-testinfra
+          python3 -m pip install --user Jinja2 molecule molecule-docker ansible-lint pytest-testinfra
       - name: Test with molecule
         run: |
           ansible-galaxy collection install community.general
