@@ -1,4 +1,4 @@
-[![Local Default Molecule Test](https://github.com/deepforu47/ansible-role-nginx/actions/workflows/main.yml/badge.svg)](https://github.com/deepforu47/ansible-role-nginx/actions/workflows/main.yml)
+[![Local Molecule Test](https://github.com/deepforu47/ansible-nginx-demo/actions/workflows/main.yml/badge.svg)](https://github.com/deepforu47/ansible-nginx-demo/actions/workflows/main.yml)
 
 # Ansible NGINX Role
 
